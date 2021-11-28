@@ -28,10 +28,10 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 # Enter same passphrase again:
 
 
-ssh ohbm@168.138.107.180 
-ssh ohbm@168.138.107.180 -i ~/.ssh/id_ed25519
+ssh student@168.138.107.180 
+ssh student@168.138.107.180 -i ~/.ssh/id_ed25519
 
-ohbm@168.138.107.180's password:
+student@168.138.107.180's password:
 
 # Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 
